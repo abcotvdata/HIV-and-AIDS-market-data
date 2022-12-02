@@ -4,13 +4,20 @@ This data comes from the [CDC's AtlasPlus database](https://www.cdc.gov/nchhstp/
 
 ### Charts for each state in the ABC OTV market
 
-New York: https://datawrapper.dwcdn.net/Z9TWa/1/
-New Jersey: https://datawrapper.dwcdn.net/4DGPz/1/
-Pennsylvania: https://datawrapper.dwcdn.net/ql89j/1/
-North Carolina: https://datawrapper.dwcdn.net/Sw79D/1/
-Illinois: https://datawrapper.dwcdn.net/6cMqk/1/
-Texas: https://datawrapper.dwcdn.net/0SFay/1/ 
-California: https://datawrapper.dwcdn.net/NVyi3/2/
+New York: https://datawrapper.dwcdn.net/Z9TWa/1/. 
+
+New Jersey: https://datawrapper.dwcdn.net/4DGPz/1/. 
+
+Pennsylvania: https://datawrapper.dwcdn.net/ql89j/1/. 
+
+North Carolina: https://datawrapper.dwcdn.net/Sw79D/1/. 
+
+Illinois: https://datawrapper.dwcdn.net/6cMqk/1/. 
+
+Texas: https://datawrapper.dwcdn.net/0SFay/1/. 
+
+California: https://datawrapper.dwcdn.net/NVyi3/2/. 
+
 
 ### CDC data footnotes
 
